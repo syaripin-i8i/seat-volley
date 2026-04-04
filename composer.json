@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Volley\SeatVolley\\": "src/"
+            "Volley\\SeatVolley\\": "src/"
         }
     },
     "extra": {
@@ -18,7 +18,7 @@
         },
         "laravel": {
             "providers": [
-                "Volley\SeatVolley\VolleyServiceProvider"
+                "Volley\\SeatVolley\\VolleyServiceProvider"
             ]
         }
     }
