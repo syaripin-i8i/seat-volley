@@ -1,6 +1,6 @@
 {
-    "name": "syaripin-i8i/seat-volley",
-    "description": "SeAT 5.x plugin: EVE Online damage calculator powered by Pyfa-style damage application formulas",
+    "name": "volley/seat-volley",
+    "description": "EVE Online damage calculator for SeAT",
     "type": "seat-plugin",
     "license": "MIT",
     "require": {
